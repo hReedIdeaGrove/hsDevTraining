@@ -1,0 +1,3 @@
+.page-wrap{
+color: {{ theme.text_color.color}};
+}
