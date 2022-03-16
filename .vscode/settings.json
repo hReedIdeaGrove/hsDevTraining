@@ -1,7 +1,7 @@
 {
     "files.autoSave": "afterDelay",
     "files.associations": {
-        "*html": "html-hubl",
+        "*.html": "html-hubl",
         "*.css": "css-hubl"
     },
     "editor.defaultFormatter": "esbenp.prettier-vscode"
